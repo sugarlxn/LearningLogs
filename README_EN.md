@@ -1,6 +1,6 @@
 # Learning Logs
 
-**[中文](./README.md)/[English](./README_EN.md)**
+**[中文](./README.md) / [English](./README_EN.md)**
 
 ![logo](./assets/logo2.jpg)
 
