@@ -2,7 +2,7 @@
 
 **[中文](./maximal_readme.md) / [English](./maximal_readme_en.md)**
 
-![banner]()
+![banner](./assets/readme.jpg)
 
 This is an example file with maximal choices selected.
 

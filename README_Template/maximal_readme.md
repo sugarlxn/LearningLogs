@@ -2,7 +2,7 @@
 
 **[中文](./maximal_readme.md) / [English](./maximal_readme_en.md)**
 
-![banner]()
+![banner](./assets/readme.jpg)
 
 <这是一个最大化的README模板文件>
 
@@ -31,7 +31,7 @@
 This module depends upon a knowledge of [Markdown]().
 
 ```bash
-#show how to install this pkg
+
 ```
 
 ### Any optional sections
@@ -39,7 +39,7 @@ This module depends upon a knowledge of [Markdown]().
 ## 如何使用
 
 ```bash
-#show how to use this pkg
+
 ```
 
 Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
