@@ -11,8 +11,5 @@
 - 如何编写README文件？以下是两个模板：
 
   - [README_Maximal](./README_Template/maximal_readme.md)
-
   - [README_Minimal](./README_Template/minimal_readme.md)
-
-    
 
