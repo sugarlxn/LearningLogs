@@ -21,5 +21,6 @@
 
 **文章**
 
-[发现对内核感兴趣呢！](https://mp.weixin.qq.com/s/hwM0Wai4dv6NdzO0uwg6fg)
+1. [发现对内核感兴趣呢！](https://mp.weixin.qq.com/s/hwM0Wai4dv6NdzO0uwg6fg)
 
+2.  [南方科技大学飞跃手册 (sustech-application.com)](https://sustech-application.com/#/?id=南方科技大学飞跃手册) 
