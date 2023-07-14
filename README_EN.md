@@ -13,4 +13,7 @@
   - [README_Maximal](./README_Template/maximal_readme.md)
   - [README_Minimal](./README_Template/minimal_readme.md)
 
-  
+
+- CS自学指南！真的打开了新大陆：
+  - [CS自学指南](./logs/cs.md)
+
